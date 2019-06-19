@@ -5,7 +5,7 @@ movies = document.querySelector('#movies');
 function apiSearch(event) {
 	event.preventDefault();
 	let searchText = document.querySelector('.form-control').value.length > 0 ? document.querySelector('.form-control').value : alert("Empty request... :c");
-	let token = '1de482be56bea1ce47ba2ba388600fe7',
+	let token = 'api-token',
 	language = 'ru',
 	url = 'https://api.themoviedb.org/3/search/multi?api_key=' + token + '&language=' + language +'&query=' + searchText;
 	requestApi('GET', url);
