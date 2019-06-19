@@ -49,4 +49,3 @@ function apiSearch(event) {
 }
 
 searchForm.addEventListener('submit', apiSearch);
-searchForm.addEventListener('change', apiSearch);
