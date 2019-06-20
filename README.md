@@ -1,6 +1,6 @@
 # glo-intense-js
 Intense JS learning with gloacademy
 
-Interactive:
+Interactive demo:
 
 https://codepen.io/kantegory/pen/pXNpQN
