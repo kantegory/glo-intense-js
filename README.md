@@ -3,4 +3,4 @@ Intense JS learning with gloacademy
 
 Interactive demo:
 
-https://codepen.io/kantegory/pen/pXNpQN
+0. Kinopoisk - https://codepen.io/kantegory/pen/pXNpQN
